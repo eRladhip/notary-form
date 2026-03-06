@@ -32,3 +32,15 @@ notary-form
 - Glassmorphism UI Design
 - GitHub Pages (untuk hosting)
 
+## Integrasi Database
+Form ini dapat diintegrasikan dengan:
+- Google Sheets (untuk penyimpanan data)
+- Excel export
+- API backend (Node.js / PHP)
+
+## Tujuan Sistem
+Sistem ini dibuat untuk memudahkan proses **pengkinian data Notaris di Kabupaten Tasikmalaya** secara digital, sehingga pengumpulan data menjadi lebih cepat, terstruktur, dan mudah dikelola.
+
+## Lisensi
+Project ini bersifat open-source dan dapat digunakan untuk pengembangan sistem administrasi atau formulir digital lainnya.
+
