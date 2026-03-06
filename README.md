@@ -18,12 +18,20 @@ Website formulir digital untuk melakukan pengkinian data Notaris di Kabupaten Ta
 - Dapat di-host menggunakan GitHub Pages
 
 ## Struktur Project
-notary-form
+notaris-system
 │
 ├── index.html
-├── style.css
-└── script.js
-
+├── form.html
+├── dashboard.html
+│
+├── css
+│   └── style.css
+│
+├── js
+│   └── script.js
+│
+└── database
+    └── excel-export
 
 ## Teknologi yang Digunakan
 - HTML5
